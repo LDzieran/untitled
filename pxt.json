@@ -1,10 +1,11 @@
 {
-    "name": "Untitled",
+    "name": "swiatło i dzwiek",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "wuKong": "github:elecfreaks/pxt-wukong#v1.5.4"
     },
     "files": [
         "main.blocks",
@@ -15,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.15",
         "targetId": "microbit"
     },
     "supportedTargets": [
